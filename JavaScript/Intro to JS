@@ -1,0 +1,28 @@
+JS is a dynamic programming language 
+Interpreted not compiled 
+Supports object-oriented imperative and functional programming 
+Key component of modern web dev 
+
+JS Use Cases:
+Enhance web interactivity and user experience 
+Validate user imputs in web forms 
+Manipulate HTML and CSS elements 
+
+DOM: 
+Document Object Model
+
+Tree-like representation of an HTML Doc
+DOM elements are nodes in the tree structure 
+Allows JS to interact with HTML Docs 
+Enables dynamic manipulation of tcontent, structure, adn styles 
+Common DOM operations: accessing, modifying, adding, and deleting elements 
+Event handling for user interactions 
+
+Exercize
+
+Which tag can be used to embed JS directly into your HTML file?
+<script>
+
+What is the Document Object Model 
+A tree-like representation of an HTML document, each element is a node and we can use JS to manipulate these nodes.
+

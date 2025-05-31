@@ -22,6 +22,7 @@ if (!x) {
 }
 
 const age = prompt("How old are you: ");
+console.log(typeof age);
 
 if (age >= 12 && age <= 20) {
     alert("You can ride the rollercoaster");

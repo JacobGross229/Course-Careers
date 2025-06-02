@@ -37,6 +37,8 @@ console.log(freq);
 
 // ------------------------------------------------------------------------------
 
+// Efiiciant way 
+
 const str1 = "Hello world my name is Jake";
 const freq1 = new Map();
 

@@ -51,3 +51,5 @@ for (const char of str) {
 }
 
 console.log(freq1.get(" "));
+
+freq1.delete(' ');

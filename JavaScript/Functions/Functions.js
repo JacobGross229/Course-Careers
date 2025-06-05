@@ -55,7 +55,7 @@ function removeAllChars(arrayOfStrings, charactersToRemove) {
         newArray.push(newStr)
     }
 
-    return newArray
+    return newArray;
 }
 
 const result = removeAllChars(
@@ -63,4 +63,4 @@ const result = removeAllChars(
     ["e", "2", "t"]
 );
 
-console.log(result)
+console.log(result);

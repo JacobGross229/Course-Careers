@@ -1,4 +1,4 @@
-// const num = Math.round(Math.random() * 10) // Random number between 1 and 10
+// const num = Math.round(Math.random() * 10) // Random number between 0 and 10
 // console.log(num);
 
 // ------------------------------------------------------------------------------
